@@ -61,12 +61,10 @@
 |                $\Longleftarrow$                |                \$\Longleftarrow$                |     左     |
 |                $\longleftarrow$                |                \$\longleftarrow$                |     左     |
 |               $\lbrace \rbrace$                |               \$\lbrace \rbrace$                |   大括号   |
+|         $\begin{cases}a\\b\end{cases}$         |         \$\begin{cases}a\\b\end{cases}$         |   大括号   |
 |                 $\overline{a}$                 |                 \$\overline{a}$                 |            |
 |                     $\lim$                     |                     \$\lim$                     |    极限    |
-
-
-
-
+|                                                |                                                 |            |
 
 ## 矩阵
 
