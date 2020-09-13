@@ -10,6 +10,8 @@
 |                    $\times$                    |                    \$\times$                    |     乘     |
 |                     $\pm$                      |                     \$\pm$                      |    加减    |
 |                     $\div$                     |                     \$\div$                     |     除     |
+|                   $\sqrt{x}$                   |                   \$\sqrt{x}$                   |   开平方   |
+|                 $\sqrt[n]{x}$                  |                 \$\sqrt[n]{x}$                  |  开n次方   |
 |                     $\mid$                     |                     \$\mid$                     |    竖线    |
 |                    $\circ$                     |                    \$\circ$                     |     圆     |
 |                    $\star$                     |                    \$\star$                     |    星号    |
